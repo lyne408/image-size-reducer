@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "UMD",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "outDir": "dist"
+  }
+}

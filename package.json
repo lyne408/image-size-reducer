@@ -1,0 +1,20 @@
+{
+  "name": "image-size-reducer",
+  "version": "1.0.0",
+  "description": "Reduce image size.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": [],
+  "author": "lyne408",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.27",
+    "webp-converter": "^2.2.8"
+  },
+  "devDependencies": {
+    "@types/mime-types": "^2.1.0",
+    "@types/node": "^14.0.24"
+  }
+}
